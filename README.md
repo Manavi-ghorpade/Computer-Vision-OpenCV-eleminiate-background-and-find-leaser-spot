@@ -1,0 +1,1 @@
+# Computer-Vision-OpenCV-eleminiate-background-and-find-leaser-spot
