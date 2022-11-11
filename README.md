@@ -1,4 +1,4 @@
-# Computer-Vision-OpenCV-eleminiate-background-and-find-leaser-spot
+# Computer-Vision-OpenCV
 
 
 rstly, we opened the dark room laser spot video. Then read the new frame from 
