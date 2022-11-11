@@ -49,3 +49,9 @@ got an output video
 
 At specified location. If we press esc at any time or frame then we will get video 
 up to that time or frame.
+
+Run code:
+
+  make
+  
+  ./< name >
